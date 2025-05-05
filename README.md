@@ -74,8 +74,6 @@ npm start
   * `POST /products/` — create product (admin only)
   * `GET /categories/` — list product categories
 
-Вот улучшенная и более чёткая версия раздела **Testing** на английском языке, подходящая для академического README:
-
 ---
 
 ##  Testing
