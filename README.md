@@ -74,19 +74,37 @@ npm start
   * `POST /products/` — create product (admin only)
   * `GET /categories/` — list product categories
 
-## Testing
+Вот улучшенная и более чёткая версия раздела **Testing** на английском языке, подходящая для академического README:
 
-### Backend (Django)
+---
+
+##  Testing
+
+###  Backend (Django)
+
+The backend uses Django’s built-in testing framework to ensure the integrity of models, database migrations, and future API functionality.
+
+To run tests:
 
 ```bash
 python manage.py test
 ```
 
-### Frontend (React)
+Currently, the project includes basic tests. In the future, additional unit and integration tests can be added using `unittest` and `rest_framework.test.APITestCase` to validate views, serializers, and business logic.
+
+###  Frontend (React)
+
+The frontend supports testing through **Jest**, the default test runner included with Create React App.
+
+To run tests:
 
 ```bash
 npm test
 ```
+
+Tests can be written using **React Testing Library** to verify component rendering, user interactions, and API responses. Expanding test coverage will ensure a more robust and reliable user interface.
+
+---
 
 ## Known Issues / Limitations
 
@@ -111,5 +129,6 @@ Seisenbay Bekassyl, 220103186, 20-P
 Daniyal Onggar, 220103318, 20-P
 
 Alisher Alexandr, 220103086, 20-P
+
 ---
 
