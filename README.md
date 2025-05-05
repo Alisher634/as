@@ -118,15 +118,15 @@ Tests can be written using **React Testing Library** to verify component renderi
 
 ## Team Members
 
-Askan Nursultan, 220103343, 20-P
+* Askan Nursultan, 220103343, 20-P
 
-Taipov Assanali, 220103162, 20-P
+* Taipov Assanali, 220103162, 20-P
 
-Seisenbay Bekassyl, 220103186, 20-P
+* Seisenbay Bekassyl, 220103186, 20-P
 
-Daniyal Onggar, 220103318, 20-P
+* Daniyal Onggar, 220103318, 20-P
 
-Alisher Alexandr, 220103086, 20-P
+* Alisher Alexandr, 220103086, 20-P
 
 ---
 
