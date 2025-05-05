@@ -17,8 +17,11 @@ Small and medium-sized wood product businesses often lack a digital presence, re
 ## Technology Stack
 
 **Frontend:** ReactJS, Tailwind CSS
+
 **Backend:** Django, Django REST Framework
+
 **Database:** SQLite (development)
+
 **Others:** Python, JavaScript
 
 ## Installation Instructions
@@ -100,9 +103,13 @@ npm test
 ## Team Members
 
 Askan Nursultan, 220103343, 20-P
+
 Taipov Assanali, 220103162, 20-P
+
 Seisenbay Bekassyl, 220103186, 20-P
+
 Daniyal Onggar, 220103318, 20-P
+
 Alisher Alexandr, 220103086, 20-P
 ---
 
